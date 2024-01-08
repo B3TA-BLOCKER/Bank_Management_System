@@ -23,7 +23,7 @@ The Bank Management System is a C++ program that provides a simple and user-frie
 
 ### Prerequisites
 
-- C++ Compiler (e.g., [GCC](https://gcc.gnu.org/))
+- C++ Compiler (e.g., [gcc](https://gcc.gnu.org/))
 - Any C++ IDE (optional)
 
 ### Installation

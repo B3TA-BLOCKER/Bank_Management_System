@@ -31,7 +31,7 @@ The Bank Management System is a C++ program that provides a simple and user-frie
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/bank-management-system.git
+    git clone https://github.com/B3TA-BLOCKER/Bank_Management_System.git
     ```
 
 2. Compile the source code:

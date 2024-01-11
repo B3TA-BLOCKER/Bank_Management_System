@@ -1,32 +1,31 @@
-# Bank Management System
+# 🏦 Bank Management System
 
-![Project Image](images/project_image.png)
 
-## Description
+
+## 📄 Description
 
 The Bank Management System is a C++ program that provides a simple and user-friendly interface for managing banking operations. It includes features such as account creation, transaction history, balance inquiry, and more. The system utilizes file handling to store and retrieve customer information.
 
-## Features
+## ✨ Features
 
 - **Account Management:** Create, update, and delete customer accounts.
 - **Transaction History:** View a detailed transaction history for each account.
 - **Balance Inquiry:** Check the account balance at any time.
 - **File Handling:** Persistent storage of customer data using file handling.
 
-## Project Structure
+## 📂 Project Structure
 
 - `main.cpp`: Main source code file containing the program logic.
-- `customer.txt`: File to store customer data (can be customized).
-- `images/`: Folder containing images or screenshots related to the project.
-
+- `customer.csv`: File to store customer data (can be customized).
+  
 ## Getting Started
 
-### Prerequisites
+### 🔧 Prerequisites
 
 - C++ Compiler (e.g., [gcc](https://gcc.gnu.org/))
 - Any C++ IDE (optional)
 
-### Installation
+### 🛠 Installation
 
 1. Clone the repository:
 
@@ -46,7 +45,7 @@ The Bank Management System is a C++ program that provides a simple and user-frie
     ./Bank_Management_System
     ```
 
-## Usage
+## 🚀 Usage
 
 1. **Account Creation:**
    - Select the option to create a new account.
@@ -59,18 +58,14 @@ The Bank Management System is a C++ program that provides a simple and user-frie
    - Check account balance through the designated menu option.
 
 4. **File Handling:**
-   - Customer data is stored in the `customer.txt` file.
+   - Customer data is stored in the `customer.csv` file.
 
-## Screenshots
 
-![Screenshot 1](images/screenshot1.png)
-![Screenshot 2](images/screenshot2.png)
-
-## Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-## License
+## 📝 License
 
 This project is licensed under the [MIT License](LICENSE).
 

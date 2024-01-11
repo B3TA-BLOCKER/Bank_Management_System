@@ -37,13 +37,13 @@ The Bank Management System is a C++ program that provides a simple and user-frie
 2. Compile the source code:
 
     ```bash
-    g++ main.cpp -o bank_management_system
+    g++ main.cpp -o Bank_Management_System
     ```
 
 3. Run the executable:
 
     ```bash
-    ./bank_management_system
+    ./Bank_Management_System
     ```
 
 ## Usage

@@ -4,7 +4,7 @@
 
 ## 📄 Description
 
-The Bank Management System is a C++ program that provides a simple and user-friendly interface for managing banking operations. It includes features such as account creation, transaction history, balance inquiry, and more. The system utilizes file handling to store and retrieve customer information.
+The Bank Management System 🏦, a C++ program for my second-semester OOP group project, offers a user-friendly interface for banking operations. Features include account creation, transaction history, and balance inquiries. File handling ensures reliable customer information storage. 💳📊
 
 ## ✨ Features
 

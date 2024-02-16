@@ -4,7 +4,7 @@
 
 ## 📄 Description
 
-The Bank Management System 🏦, a C++ program for my second-semester OOP group project, offers a user-friendly interface for banking operations. Features include account creation, transaction history, and balance inquiries. File handling ensures reliable customer information storage. 💳📊
+**The Bank Management System 🏦, a C++ program for my second-semester OOP group project, offers a user-friendly interface for banking operations. Features include account creation, transaction history, and balance inquiries. File handling ensures reliable customer information storage. 💳📊**
 
 ## ✨ Features
 
@@ -15,15 +15,16 @@ The Bank Management System 🏦, a C++ program for my second-semester OOP group 
 
 ## 📂 Project Structure
 
-- `main.cpp`: Main source code file containing the program logic.
-- `customer.csv`: File to store customer data (can be customized).
+- **`main.cpp`** : Main source code file containing the program logic.
+- **`customer.csv`** : File to store customer data (can be customized).
+- **`admin.csv`** : File to store admin data.
   
 ## Getting Started
 
 ### 🔧 Prerequisites
 
-- C++ Compiler (e.g., [gcc](https://gcc.gnu.org/))
-- Any C++ IDE (optional)
+- C++ Compiler.
+- Any C++ IDE (optional).
 
 ### 🛠 Installation
 
@@ -33,16 +34,21 @@ The Bank Management System 🏦, a C++ program for my second-semester OOP group 
     git clone https://github.com/B3TA-BLOCKER/Bank_Management_System.git
     ```
 
-2. Compile the source code:
+2. Navigate to the project directory:
+   ```bash
+   cd Bank_Management_System
+   ```
+   
+3. Compile the source code:
 
     ```bash
-    g++ main.cpp -o Bank_Management_System
+    g++ main.cpp -o main
     ```
 
-3. Run the executable:
+4. Run the executable:
 
     ```bash
-    ./Bank_Management_System
+    ./main
     ```
 
 ## 🚀 Usage

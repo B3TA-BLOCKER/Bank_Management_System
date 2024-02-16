@@ -1,8 +1,6 @@
-# 🏦 Bank Management System
+# **🏦 Bank Management System**
 
-
-
-## 📄 Description
+## **📄 Description**
 
 **The Bank Management System 🏦, a C++ program for my second-semester OOP group project, offers a user-friendly interface for banking operations. Features include account creation, transaction history, and balance inquiries. File handling ensures reliable customer information storage. 💳📊**
 

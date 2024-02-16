@@ -64,7 +64,8 @@
    - Check account balance through the designated menu option.
 
 4. **File Handling:**
-   - Customer data is stored in the `customer.csv` file.
+   - Customer data is stored in the **`customer.csv`** file.
+   - Admin data is stored in the **`admin.csv`** file.
 
 
 ## 🤝 Contributing

@@ -62,8 +62,7 @@
 
 4. **File Handling:**
    - Customer data is stored in the **`customer.csv`** file.
-   - Admin data is stored in the **`admin.csv`** file.
-
+   
 
 ## 🤝 Contributing
 

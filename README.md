@@ -15,7 +15,6 @@
 
 - **`main.cpp`** : Main source code file containing the program logic.
 - **`customer.csv`** : File to store customer data (can be customized).
-- **`admin.csv`** : File to store admin data.
   
 ## Getting Started
 
